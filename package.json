@@ -26,6 +26,6 @@
     "build": "npm run fetch && node index.js > readme.md && node releases.js >> readme.md"
   },
   "dependencies": {
-    "@octokit/rest": "^18.12.0"
+    "@octokit/rest": "^21.1.1"
   }
 }
